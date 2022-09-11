@@ -2,12 +2,6 @@
 
 You can use VS Code on your mobile device or even in the browser.
 
-1. zzz
-
-## Objective:
-
-1. Zzz
-
 # Steps:
 
 1. Go to VSCode.dev
