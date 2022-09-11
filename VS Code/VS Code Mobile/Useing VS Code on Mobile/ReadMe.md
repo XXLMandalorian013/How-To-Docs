@@ -16,7 +16,7 @@ You can use VS Code on your mobile device or even in the browser.
 
    4. Don't forget to create a shortcut!
 
-      ![1662936048347](image/ReadMe/1662936048347.png)
+   ![1662936048347](image/ReadMe/1662936048347.png)
 
 ## Links:
 
