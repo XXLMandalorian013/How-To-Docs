@@ -20,4 +20,4 @@ You can use VS Code on your mobile device or even in the browser.
 
 ## Links:
 
-1. VSCode.dev
+1. [VSCode.dev](VSCode.dev)
