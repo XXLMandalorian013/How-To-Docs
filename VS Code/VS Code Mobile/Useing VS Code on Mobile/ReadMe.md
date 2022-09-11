@@ -4,7 +4,7 @@ You can use VS Code on your mobile device or even in the browser.
 
 ## Steps:
 
-1. Go to VSCode.dev
+1. Go to VSCode.dev by coping the URL into your browser.
 2. You can start writng. You can also log in w/ your GitHub or MS Acct to Sync Extentions.
 
    ![1662935667665](image/ReadMe/1662935667665.png)
