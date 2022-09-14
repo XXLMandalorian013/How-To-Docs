@@ -73,42 +73,36 @@ Enable Basic Auth (Not Recommended EOL 2023)
 
 ![1663173504642](image/ReadMe/1663173504642.png)
 
-1. Then pick the
-   proto you wish to enable.
+6. Then pick the proto you wish to enable.
 
-![]()
+![1663173601802](image/ReadMe/1663173601802.png)
 
-Disable/Block Basic Auth
+## Disable/Block Basic Auth
 
-1. First lets double
-   check to make sure users are not still using some Basic Auth methods. [In Azure A/D](https://portal.azure.com/#view/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/~/Overview), go to "All Services",
+1. First lets double check to make sure users are not still using some Basic Auth methods. [In Azure A/D](https://portal.azure.com/#view/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/~/Overview), go to "All Services",
 
-![]()
+![1663173676796](image/ReadMe/1663173676796.png)
 
 Under
  the "Identity" section, click "Users"
 
-![]()
+![1663173713457](image/ReadMe/1663173713457.png)
 
 Then
  under the "Activity" section, click "Sign-in Logs"
 
-![]()
+![1663173746894](image/ReadMe/1663173746894.png)
 
-1. On the "Add
-   Filters" button, select "Client App".
+2. On the "Add Filters" button, select "Client App".
 
-![]()
+![1663173832043](image/ReadMe/1663173832043.png)
 
-1. Then on the new
-   Colum filter check Exchange ActiveSync, Exchange Online PowerShell,
+3. Then on the new Colum filter check Exchange ActiveSync, Exchange Online PowerShell,
    Exchange Web Service, IMAP, and POP.
 
-![]()
+![1663173907441](image/ReadMe/1663173907441.png)
 
-![]()
-
-1. Unfortunately you
+4. Unfortunately you
    will need to open each Login type and view its protocol. Comb through to
    make sure no actual users are using Basic Auth.
 
