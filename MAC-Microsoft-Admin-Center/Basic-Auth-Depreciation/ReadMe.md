@@ -53,12 +53,9 @@ This will also clear up User reports in Azure A/D, should someone gain access to
 
 ![1663172030109](image/ReadMe/1663172030109.png)
 
-![]()
+![](Pics/modurn%20auth.png)
 
-1. Then click on it
-   and make sure all boxes are enabled. If not, enable them. As the tan box states, make sure before enabling Modern Auth on a
-   proto, that it is not being used. refer to the "Basic Auth Monthly
-   Report" above.
+2. Then click on it and make sure all boxes are enabled. If not, enable them. As the tan box states, make sure before enabling Modern Auth on a proto, that it is not being used. refer to the "Basic Auth Monthly Report" above.
 
 ![]()
 
