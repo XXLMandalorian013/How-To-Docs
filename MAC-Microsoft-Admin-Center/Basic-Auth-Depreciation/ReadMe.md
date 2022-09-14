@@ -19,34 +19,27 @@ Starting
 
 If you have already blocked Basic Auth Proto dependencies then you have nothing left to do. If you are not sure, check your "Monthly Usage Reports" in the [&#34;Massage Center&#34;](https://admin.microsoft.com/AdminPortal/home#/MessageCenter).
 
-Search
- for "Basic Auth"
+Search for "Basic Auth"
 
  ![1663170975377](image/ReadMe/1663170975377.png)
 
  ![1663171290381](image/ReadMe/1663171290381.png)
 
-This
- section will let you know what you need to change.
+This section will let you know what you need to change.
 
 ![1663171351618](image/ReadMe/1663171351618.png)
 
-Anything
- with a number grater then 0 will need addressed.
+Anything with a number grater then 0 will need addressed.
 
-This
- will also clear up User reports in Azure A/D, should someone gain access to
- their password but not full access due to MFA.
+This will also clear up User reports in Azure A/D, should someone gain access to their password but not full access due to MFA.
 
-![]()
+![1663171388514](image/ReadMe/1663171388514.png)
 
 Objective:
 
-1. Enable MFA,
-   Enabled Modern Auth, and all Basic Auth protocols are disabled/blocked
-   ASAP.
+1. Enable MFA, Enabled Modern Auth, and all Basic Auth protocols are disabled/blocked ASAP.
 
-Enable MFA:
+## Enable MFA:
 
 1. See [Enabling MFA Doc](onenote:Microsoft%20365%20and%20Apps.one#Enable Multi-Factor Authentication for Non-Admins in Azure A&section-id={16DE7393-0E05-4F6B-8875-A8525168C34E}&page-id={9474D2F6-9C30-4CFD-BBDB-459FA53B9079}&end&base-path=https://d.docs.live.net/0e010ec6c3079840/Documents/Drew's%20Notebook).
 
