@@ -53,29 +53,25 @@ This will also clear up User reports in Azure A/D, should someone gain access to
 
 ![1663172030109](image/ReadMe/1663172030109.png)
 
-![](Pics/modurn%20auth.png)
+![1663173108097](image/ReadMe/1663173108097.png)
 
 2. Then click on it and make sure all boxes are enabled. If not, enable them. As the tan box states, make sure before enabling Modern Auth on a proto, that it is not being used. refer to the "Basic Auth Monthly Report" above.
 
-![]()
+![1663173194259](image/ReadMe/1663173194259.png)
 
 Enable Basic Auth (Not Recommended EOL 2023)
 
-1. In the [MAC
-   (Microsoft Admin Center) home page](https://admin.microsoft.com/#/homepage), click on "Help and Support" in the
-   lower left.
+3. In the [MAC (Microsoft Admin Center) home page](https://admin.microsoft.com/#/homepage), click on "Help and Support" in the lower left.
 
-![]()
+![1663173407237](image/ReadMe/1663173407237.png)
 
-1. Search for
-   "Basic Auth Enable".
+4. Search for "Basic Auth Enable".
 
-![]()
+![1663173459954](image/ReadMe/1663173459954.png)
 
-1. Then run the
-   test,
+5. Then run the test,
 
-![]()
+![1663173504642](image/ReadMe/1663173504642.png)
 
 1. Then pick the
    proto you wish to enable.
