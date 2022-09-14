@@ -35,7 +35,7 @@ This will also clear up User reports in Azure A/D, should someone gain access to
 
 ![1663171388514](image/ReadMe/1663171388514.png)
 
-Objective:
+## Objective:
 
 1. Enable MFA, Enabled Modern Auth, and all Basic Auth protocols are disabled/blocked ASAP.
 
@@ -43,17 +43,15 @@ Objective:
 
 1. See [Enabling MFA Doc](onenote:Microsoft%20365%20and%20Apps.one#Enable Multi-Factor Authentication for Non-Admins in Azure A&section-id={16DE7393-0E05-4F6B-8875-A8525168C34E}&page-id={9474D2F6-9C30-4CFD-BBDB-459FA53B9079}&end&base-path=https://d.docs.live.net/0e010ec6c3079840/Documents/Drew's%20Notebook).
 
-Make sure Modern Auth is Enabled
+## Make sure Modern Auth is Enabled
 
-1. In the [MAC (Microsoft Admin Center) go to &#34;Settings&#34;
-   &gt; &#34;Org Settings&#34;](https://admin.microsoft.com/#/Settings/Services/:/Settings/L1/ModernAuthentication),
+1. In the [MAC (Microsoft Admin Center)](https://admin.microsoft.com/#/Settings/Services/:/Settings/L1/ModernAuthentication) go to Settings > Org Settings,
 
-![]()
+![1663171813786](image/ReadMe/1663171813786.png)
 
-and
- search for "Modern Auth.
+   and search for "Modern Auth.
 
-![]()
+![1663172030109](image/ReadMe/1663172030109.png)
 
 ![]()
 
