@@ -114,28 +114,24 @@ Enable Basic Auth (Not Recommended EOL 2023)
 
 Click on the "Conditional Access" button
 
-![]()
+![]()![1663358891424](image/ReadMe/1663358891424.png)
 
-And
- then click on the "New Policy" tab.
+And then click on the "New Policy" tab.
 
-!['O!10d ]()
+![1663358999507](image/ReadMe/1663358999507.png)
 
-1. Under the
-   "Name" pulldown let's call it "Basic Auth Block".
+6. Under the "Name" pulldown let's call it "Basic Auth Block".
 
-![]()
+   ![1663359102339](image/ReadMe/1663359102339.png)
+7. On the"Assignment" pulldown, select "Users and Groups", then pick "All Users".
 
-1. On the
-   "Assignment" pulldown, select "Users and Groups",
-   then pick "All Users".
+   ![1663359263236](image/ReadMe/1663359263236.png)
+8. Then on the "Cloud Apps or Actions" pulldown, pick Cloud apps.
 
 ![]()
 
-1. Then on the
-   "Cloud Apps or Actions" pulldown, pick Cloud apps.
+![1663359405584](image/ReadMe/1663359405584.png)
 
-![]()
 
 1. Under the
    "Conditions" pull down, select "Client Apps". We have
