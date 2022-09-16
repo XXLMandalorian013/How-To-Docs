@@ -1,4 +1,4 @@
-![1663358000038](image/ReadMe/1663358000038.png)# Exchange Online: Basic Auth Depreciation
+# Exchange Online: Basic Auth Depreciation
 
 ## Prerequisites/Notes:
 
