@@ -60,7 +60,7 @@ This will also clear up User reports in Azure A/D, should someone gain access to
 
 ![1663358000038](image/ReadMe/1663358000038.png)
 
-Enable Basic Auth (Not Recommended EOL 2023)
+## Enable Basic Auth (Not Recommended EOL 2023)
 
 1. In the [MAC (Microsoft Admin Center) home page](https://admin.microsoft.com/#/homepage), click on "Help and Support" in the lower left.
 
@@ -132,27 +132,17 @@ And then click on the "New Policy" tab.
 
 ![1663359405584](image/ReadMe/1663359405584.png)
 
+9. Under the "Conditions" pull down, select "Client Apps". We have two ways of setting
+   this up. Indirectly blocking Basic Auth or Directly blocking Basic Auth.
 
-1. Under the
-   "Conditions" pull down, select "Client Apps". We have
-   two ways of setting this up. Indirectly blocking Basic Auth or Directly
-   blocking Basic Auth.
+*Directly blocking Basic Auth:* This is
+if you know you don’t have anything using Basic Auth, that you should have confirmed above. A side note when checking "Other Clients", this blocks "Exchange Online PowerShell" and "Dynamics 365" using Basic Auth as well as older devices that do not support MFA.
 
- Directly blocking Basic Auth: This is
- if you know you don’t have anything using Basic Auth, that you should have
- confirmed above. A side note when checking "Other Clients", this
- blocks "Exchange Online PowerShell" and "Dynamics 365"
- using Basic Auth as well as older devices that do not support MFA.
+Slide the "Configure" button to "Yes" and make sure "Exchange Active Sync Clients" and "Other Clients" are the only ones checked.
 
-Slide
- the "Configure" button to "Yes" and make sure
- "Exchange Active Sync Clients" and "Other Clients" are the
- only ones checked.
+![]()![1663360037270](image/ReadMe/1663360037270.png)
 
-![]()
-
-Indirectly
- blocking Basic Auth: This is if you know you have legacy devices that
+_**Indirectly blocking Basic Auth:**_ This is if you know you have legacy devices that
  still require Basic Auth aka don’t support MFA and you want to not block it.
  Not shaming here but this is considered "Technical Debt" and should
  be addressed sooner than later.
