@@ -84,13 +84,11 @@ Enable Basic Auth (Not Recommended EOL 2023)
 
 ![1663173676796](image/ReadMe/1663173676796.png)
 
-Under
- the "Identity" section, click "Users"
+    Under the "Identity" section, click "Users"
 
 ![1663173713457](image/ReadMe/1663173713457.png)
 
-Then
- under the "Activity" section, click "Sign-in Logs"
+    Then under the "Activity" section, click "Sign-in Logs"
 
 ![1663173746894](image/ReadMe/1663173746894.png)
 
@@ -103,22 +101,18 @@ Then
 
 ![1663173907441](image/ReadMe/1663173907441.png)
 
-4. Unfortunately you
-   will need to open each Login type and view its protocol. Comb through to
+4. Unfortunately you will need to open each Login type and view its protocol. Comb through to
    make sure no actual users are using Basic Auth.
 
-![]()
+![]()![1663358243901](image/ReadMe/1663358243901.png)
 
-![]()
+![1663358291565](image/ReadMe/1663358291565.png)
 
-1. Now that we have
-   double checked ourselves, lets create a Conditional Access Policy to
-   block Basic Auth methods directly. On the [Azure A/D homepage](https://portal.azure.com/#view/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/~/Overview), go to the "Security" button.
+5. Now that we have double checked ourselves, lets create a Conditional Access Policy to block Basic Auth methods for Cloud apps. On the [Azure A/D homepage](https://portal.azure.com/#view/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/~/Overview), go to the "Security" button.
 
-![]()
+![]()![1663358745662](image/ReadMe/1663358745662.png)
 
-Click
- on the "Conditional Access" button
+Click on the "Conditional Access" button
 
 ![]()
 
