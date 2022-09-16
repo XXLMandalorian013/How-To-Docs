@@ -1,4 +1,4 @@
-# Exchange Online: Basic Auth Depreciation
+![1663358000038](image/ReadMe/1663358000038.png)# Exchange Online: Basic Auth Depreciation
 
 ## Prerequisites/Notes:
 
@@ -55,13 +55,14 @@ This will also clear up User reports in Azure A/D, should someone gain access to
 
 ![1663173108097](image/ReadMe/1663173108097.png)
 
-2. Then click on it and make sure all boxes are enabled. If not, enable them. As the tan box states, make sure before enabling Modern Auth on a proto, that it is not being used. refer to the "Basic Auth Monthly Report" above.
+2. Then click on it and make sure "Turn on modern auth" is enabled. You may also have
+   basic auth already disabled. As the tan box states, make sure before disabling Modern Auth on a proto, that it is not being used. Refer to the "Basic Auth Monthly Report" above. These will need turned off sooner than later.
 
-![1663173194259](image/ReadMe/1663173194259.png)
+![1663358000038](image/ReadMe/1663358000038.png)
 
 Enable Basic Auth (Not Recommended EOL 2023)
 
-3. In the [MAC (Microsoft Admin Center) home page](https://admin.microsoft.com/#/homepage), click on "Help and Support" in the lower left.
+1. In the [MAC (Microsoft Admin Center) home page](https://admin.microsoft.com/#/homepage), click on "Help and Support" in the lower left.
 
 ![1663173407237](image/ReadMe/1663173407237.png)
 
