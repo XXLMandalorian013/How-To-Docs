@@ -18,6 +18,30 @@
 
 ![1663610598637](image/ReadMe/1663610598637.png)
 
+4. Then in the search, type "Teams" 
+
+![1663610913825](image/ReadMe/1663610913825.png)
+
+    and select "For a Selected Message"
+
+![1663610949500](image/ReadMe/1663610949500.png)
+
+    and leave it as default.
+
+![1663611055395](image/ReadMe/1663611055395.png)
+
+5. Then click add new step and type "Add a to-do v3"
+
+![1663611081756](image/ReadMe/1663611081756.png)
+
+![1663611171359](image/ReadMe/1663611171359.png)
+
+6. On the "To-Do-List" select the list you wish to add this chat MSG to.
+
+![1663611522561](image/ReadMe/1663611522561.png)
+
+7. In the "Title" I like to  
+
 ## Header 1
 
 1. Go to your Power Automate "My Flows" tab.
