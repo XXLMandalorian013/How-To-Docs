@@ -139,7 +139,7 @@ _**Indirectly blocking Basic Auth:**_ This is if you know you have legacy device
 ![1663585462086](image/ReadMe/1663585462086.png)
 
 11. Then don’t select anything for "Session Control".
-13. Now make sure you create your Conditional Access Policy as a "Report only" and review it with the What if Tool" before turning it on. There is also a new feature on excluding the person who created the "Conditional Access Policy" Keep in mind what option you make. Report only will not take effect until its changed to "On".
+12. Now make sure you create your Conditional Access Policy as a "Report only" and review it with the What if Tool" before turning it on. There is also a new feature on excluding the person who created the "Conditional Access Policy" Keep in mind what option you make. Report only will not take effect until its changed to "On".
 
 ![1663586106556](image/ReadMe/1663586106556.png)
 
